@@ -1,5 +1,5 @@
 # My frontpage
-Hello, I'm Jules Musquin, a 25-year-old student at the Ecole Nationale des Chartes. I study archivistics and digital humanities. 
+Hello, I'm Jules Musquin, a 25-year-old student at the Ecole Nationale des Chartes. I study archivistics and digital humanities. I mainly learn web development and python for research purposes and to make documents available to the public. 
 
 ![Anarchiviste's Stats](https://github-readme-stats.vercel.app/api?username=Anarchiviste&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
 
