@@ -1,6 +1,6 @@
 # My frontpage
 
-![image](https://github.com/user-attachments/assets/0a28d22b-255f-425d-a437-e5d23713369a)
+![image](https://github.com/user-attachments/assets/0df56cb0-3704-4499-90f3-b4d84633dbb6)
 
 Hello, I'm Jules Musquin, a 25-year-old student at the Ecole Nationale des Chartes. I study archivistics and digital humanities. I learn and use python, web development and editing languages to produce documentary tools. 
 
