@@ -1,9 +1,7 @@
 
- █─█─█▄─▄███░█
- 
- █─▄─██─████▄█
- 
- ▀▄▀▄▀▄▄▄▀▀▀▄▀
+- █─█─█▄─▄███░█
+- █─▄─██─████▄█
+- ▀▄▀▄▀▄▄▄▀▀▀▄▀
 
 („• ֊ •„)੭ Hello, I am a 25-year-old student at the École nationale des chartes. 
 
