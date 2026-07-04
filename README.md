@@ -5,3 +5,4 @@
  |_||_|_| |_| \___\___/ .__/_\___/__/ (_) 
                       |_|                               
 ```
+[![Anarchiviste's GitHub stat](https://github-stats-extended.vercel.app/api?username=Anarchiviste)](https://github.com/stats-organization/github-stats-extended)
