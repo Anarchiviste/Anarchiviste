@@ -5,4 +5,5 @@
  |_||_|_| |_| \___\___/ .__/_\___/__/ (_) 
                       |_|                               
 ```
-Vous pouvez trouver une partie de mon travail (datasets & modèles) sur [Huggin Face](https://huggingface.co/Anarchiviste)
+Vous pouvez trouver une partie de mon travail (datasets & modèles) sur [Huggin Face](https://huggingface.co/Anarchiviste) et mes nouvelles réalisations sur [GitLab](https://gitlab.com/Anarchiviste)
+
